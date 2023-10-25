@@ -1,2 +1,1 @@
-### Redox analyte study by different electrodes.
-
+### Aim of the experiment
