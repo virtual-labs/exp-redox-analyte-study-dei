@@ -1,5 +1,5 @@
-### Procedure
-<br>
+## Procedure:
+
 ●	To prepare KCl solution having a concentration of 3mol/L, weigh 22.365 g KCl.
 <br>
 ●	Transfer the salt into a 100ml volumetric flask and makeup with double distilled water.
