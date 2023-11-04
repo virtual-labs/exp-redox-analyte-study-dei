@@ -2,38 +2,86 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Q1. Ascorbic acid in aqueous solution has a pH of less than or equal to ___________.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "3.",
+        "b": "2.",
+        "c": "4.",
+        "d": "1."
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+	  "correctAnswer": "a"     
+    },
+	{
+      "question": "Q2. Which of the following electrode is constructed by thick film deposition onto plastic or ceramic substrates?",
+      "answers": {
+        "a": "Screen-printed electrodes (SPEs).",
+        "b": "Glassy carbon electrode.",
+        "c": "Modified glassy carbon electrode.",
+        "d": "Boron-doped diamond electrode."
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "a"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Q3. Potassium chloride is a/an  ___________ electrolyte.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Inert and weak.",
+        "b": "Inert and strong.",
+        "c": "Inert but not weak.",
+        "d": "Strong but not inert."
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "b"
+    },
+	{
+      "question": "Q4. The advantages of the modified electrodes are:",
+      "answers": {
+        "a": "Enhanced sensitivity.",
+        "b": "Good selectivity.",
+        "c": "High stability.",
+        "d": "All of the above."
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      "correctAnswer": "d"
+    },
+	{
+      "question": "Q5. In a cyclic voltammetry experiment, the working electrode potential is ramped linearly versus __________.",
+      "answers": {
+        "a": "Current.",
+        "b": "Time.",
+        "c": "Current density.",
+        "d": "Peak potential."
+      },      
+      "correctAnswer": "b"
+    },	
+	{
+      "question": "Q6. ___________ reaction takes place when all of the reactants are consumed to form the products?",
+      "answers": {
+        "a": "Irreversible.",
+        "b": "Reversible.",
+        "c": "Elimination.",
+        "d": "Photochemical."
+      },     
+      "correctAnswer": "a"
+    },
+	
+	{
+      "question": "Q7. The direction of reversible reaction spontaneity is ___________ towards equilibrium.",
+      "answers": {
+        "a": "Never.",
+        "b": "Sometime.",
+        "c": "Often.",
+        "d": "Always."
+      },      
+      "correctAnswer": "d"
+    },
+	{
+      "question": "Q8. Which of the following is a disadvantage of cyclic voltammetry??",
+      "answers": {
+        "a": "Inappropriate results..",
+        "b": "Background charging current.",
+        "c": "AC voltage scans.",
+        "d": "Poor scan rate."
+      },      
+      "correctAnswer": "b"
     }
   ]
+
 }
