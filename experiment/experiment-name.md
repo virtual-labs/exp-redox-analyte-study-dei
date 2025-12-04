@@ -1,2 +1,2 @@
-## Redox analyte study on different electrodes (glassy carbon, boron doped diamond and other modified electrodes).
+## Vitamin C redox study using glassy carbon electrode (GCE) and  modified GCE.
 
