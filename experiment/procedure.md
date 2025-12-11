@@ -16,7 +16,11 @@
 <br>
 ●	The bare GC and modified GC (Bi2O3) are used as a working electrode, the saturated calomel electrode as a reference electrode, and the platinum wire electrode as an auxiliary electrode.
 <br>
-●	Screen printed electrode (SPE) is also used that consists of three electrodes: the working electrode (WE), the reference electrode (RE), and the counter or auxiliary electrode (CE/AE).
-<br>
+● Cyclic Voltammetry (CV) Parameters:<br>
+● Initial Potential: -1.0 V<br>
+● Final Potential: 0.8 V<br>
+● Scan Rate: 10 mV/s<br>
+● Quiet Time (Equilibration Time): 5–10 s<br>
+● Sweep Segments: 2 <br>
 ●	The CV graph represents the current at the working electrode versus the applied voltage plot and important peak parameters.
 <br>
