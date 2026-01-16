@@ -15,6 +15,4 @@ acid, which is also known as vitamin C. It has antioxidant properties and can be
 </p>
 
 This reaction can be used to determine the concentration of vitamin C in samples, apart from its kinetic studies. Vitamin C is often determined by titration, however, voltammetry is more selective since other oxidizing 
-or reducing substances do not interfere. Hence, preference is given to the determination that is conducted by cyclic voltammetry. 
-
-
+or reducing substances do not interfere. Hence, preference is given to the determination that is conducted by cyclic voltammetry.
