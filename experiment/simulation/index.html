@@ -154,6 +154,30 @@ $(document).ready(function(){
             // $("#step5img").attr("src","assets/img/step5f.png");
             }, 8000);
     });
+		$("#rodn121").click(function(){
+    	$(".followstep5").removeClass("active");
+		$(".followstep6").addClass("active");
+        $("#step1").hide();
+        $("#step2").hide();
+		 $("#step10").hide();
+		$("#step3").hide();
+		$("#step4").hide();
+		$("#step5").hide();
+		$("#step6").hide();
+		
+		$("#step61").show();
+		$('#cuso41n').attr('disabled', 'disabled');
+		 $('#cu1n').attr('disabled', 'disabled');
+		 $('#voltametern').removeAttr('disabled', 'disabled');
+		 $('#saltbridagen').attr('disabled', 'disabled');
+		 $('#rodn').attr('disabled', 'disabled');
+		 $('#cuso41nao').attr('disabled', 'disabled');
+		$("#step61img1").attr("src","images/part5.gif");
+		setTimeout(function() {
+    $("#success1").show();
+            // $("#step5img").attr("src","assets/img/step5f.png");
+            }, 8000);
+    });
 	$("#voltametern").click(function(){
 	
     	 $(".inlink").toggleClass('active');
@@ -844,6 +868,20 @@ $(document).ready(function(){
 				</div>
 			 </div>
 			 <!-- End step6-->
+			 	   <!-- Begin step61-->
+			 <div id="step61" style="display:none;">
+			
+				<span id="success1" style="display:none;" class="blink">Step 61: Click on Electrode icon and insert GC Electrode.</span>
+				<p id="c121">
+				<span id="rank0"></span>
+				<img src=""  id="step61img1" style="width:640px;height:480px;">
+				</p>
+				<div style="display:none;padding-top:100px;" id="c12">
+				<img src=""  id="step6img" style="width:50%;padding:10px;float: left;">
+				<div id="chartContainer61" style="max-width: 50%; margin: 0px auto;float: right;"><img src=""  id="step61img"  style="max-width: 620px;padding:10px;margin-top:10%;"></div>
+				</div>
+			 </div>
+			 <!-- End step6-->
 			   <!-- Begin step7-->
 			 <div id="step7" style="display:none;">
 			
@@ -914,7 +952,7 @@ $(document).ready(function(){
 			<a href="javascript:void(0);" id="saltbridagen"><img src="images/IconA+B.jpg" ></a>			
 			<a href="javascript:void(0);" id="rodn"><img src="images/referenceE.png"></a>
 			<a href="javascript:void(0);" id="rodn12"><img src="images/counterE.png"></a>
-			
+			<a href="javascript:void(0);" id="rodn121"><img src="images/counterE.png"></a>
 			
 			<a href="javascript:void(0);" id="voltametern"><img src="images/electrode-icon.png"></a>
 			<p class="inlink">
