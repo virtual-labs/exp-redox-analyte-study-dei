@@ -1,7 +1,7 @@
 ## Introduction
 
 
-<b>Discipline | <b>Chemical Binding(Chemistry)
+<b>Discipline | <b> Chemical Sciences
 :--|:--|
 <b> Lab | <b> Electroanalytical Virtual Laboratory
 <b> Experiment|  <b>Redox analyte study on different electrodes (glassy carbon, boron doped diamond and other modified electrodes).
